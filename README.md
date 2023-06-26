@@ -22,7 +22,7 @@ There are some tasks to be done in [codeaffen/p3exporter](https://github.com/cod
 
 #### How to reach me: ...
 
-You can reach me either on Mastodon.
+You can reach me on Mastodon.
 
 <!--
 
